@@ -7,7 +7,6 @@ public class Test01 {
         System.out.println(i);
         System.out.println(3);
         System.out.println(3);
-        System.out.println(5);
-
+        System.out.println(4);
     }
 }
